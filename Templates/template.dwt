@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>PlantozVN</title>
+<!-- TemplateEndEditable -->
+<link href="../img/green.png" rel="shortcut icon" type="image/x-icon">
+<link rel="stylesheet" href="../css/mainstyle.css">
+<link rel="stylesheet" href="../css/thuvien.css">
+<link rel="stylesheet" href="DIST/assets/owl.carousel.css">
+<link rel="stylesheet" href="DIST/assets/owl.theme.default.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200&display=swap" rel="stylesheet">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+
+	<div class="backtoTop"> <i class="fa fa-angle-up fa-3x"></i></div>
+<div class="grad text-light top-bar">
+		<div class="container">
+			<div class="row">
+				<div class="col-6 font-thong-tin">
+					<div class="text-secondar">
+					<i class="fa fa-phone"></i> 028 3710 5533
+					<i class="fa fa-envelope"></i> PlantozVN@gmail.com</div>
+			  </div>
+				<div class="col-6 text-right font-thong-tin">
+					<i class="fa fa-facebook"></i> PlantozVN
+					<i class="fa fa-instagram"></i> Plantozvietnam.official
+				</div>
+			</div>
+	  </div>
+</div>  <!--topbar-->
+<nav class="navbar">
+		<div class="container">
+		<a href="../index.html"><img src="../img/green.png" alt="" width="80px"></a>
+			<div class="menu">
+				<ul>
+					<li><a href="../index.html"><h4>Trang chủ</h4></a></li>
+					<li><a href="../Ve-chung-toi.html"><h4>Về chúng tôi</h4></a></li>
+					<li><a href="../San-pham.html"><h4>Sản Phẩm</h4></a>		
+						<ul>
+							<li><a href="#">Sen đá</a></li>
+							<li><a href="#">Đất trồng</a></li>
+							<li><a href="#">Xương rồng</a></li>
+							<li><a href="#">Chậu trồng cây</a></li>
+							<li><a href="#">Phụ kiện trang trí</a></li>
+							<li><a href="#">Dụng cụ trồng sen đá</a></li>	
+						</ul>
+					</li>									
+				    <li><a href="#l"><h4>Hướng dẫn mua hàng</h4></a>
+						<ul>
+							<li><a href="#">Giao hàng</a></li>
+							<li><a href="#">Xem lại đơn hàng</a></li>
+							<li><a href="#">Hướng dẫn đặt hàng</a></li>
+							<li><a href="#">Hướng dẫn giao hàng</a></li>
+						</ul>
+					</li>
+					<li><a href="#"><h4>Hướng dẫn chăm sóc</h4></a></li>
+				</ul>
+			</div>
+		</div>
+	</nav> <!--navbar-->
+	<!-- TemplateBeginEditable name="main" -->main<!-- TemplateEndEditable -->
+	
+	
+	<footer>
+	<div class="grad text-primary">
+			<div class="container">
+				<div class="row">
+					<div class="col-4">
+<h3>Liên hệ với chúng tôi</h3>
+<p>
+	  <i class="fa fa-phone"></i> 028 3710 5533 <br> <br>
+	  <i class="fa fa-envelope"></i> PlantozVn@gmail.com <br> <br>
+      <i class="fa fa-facebook"></i> Plantoz Vietnam <br> <br>
+	  <i class="fa fa-instagram"></i> PlantozVn <br>
+</p>					
+					</div>
+					    <div class="col-4 text-center">
+						 <h3>Bạn có thể ghé thăm chúng tôi qua các chi nhánh</h3>
+						 <div class="menu-footer">
+                          <p><i class="fa fa-map-marker"></i> 108A đường số 21, ấp Tân Lập, xã Tân Thông Hội, huyện Củ Cho.</p>
+						   <p><i class="fa fa-map-marker"></i> 18B đường số 1, ấp Tân Lập, xã Tân Thông Hội, huyện Củ Cho, Xã Tân Thông Hội, TPHCM.</p>
+						 <p><i class="fa fa-map-marker"></i> 18B đường số 1, ấp Tân Lập, xã Tân Thông Hội, Xã Tân Thông Hội, Hà Nội.</p></div>
+				    </div>
+				  <div class="col-4 text-right">
+						<h3>Thời gian mở </h3>
+				            THỨ 2-THỨ 7<br>8:00 am - 5.00 pm <br> <br>
+						    CHỦ NHẬT<br>10.00 am - 3.00 pm <br> <br>
+					        NGÀY LỄ <br> 7.00am - 5:30pm
+				  </div>
+			  </div>
+	  </div>
+	  </div>
+
+<!--het phan 1 màu nâu của footer-->
+	  <div class="grad text-center">Copyright © 2022 Plantozhahanngoc. All Rights Reserved..</div>
+	<script src="dist/jquery-3.6.0.min.js"></script>
+	<script src="dist/owl.carousel.js"></script>
+	<script src="dist/custom.js"></script>
+</footer>
+</body>
+</html>
